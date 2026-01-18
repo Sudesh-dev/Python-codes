@@ -1,6 +1,5 @@
 # convert a nested list of strings into a list of tuples of integers.
 def convert_nested_list_to_list_of_tuples(nested_list):
-    # Complete this function
     tuples_list_a=[]
     for i in nested_list:
         value_tuple = tuple(i)
