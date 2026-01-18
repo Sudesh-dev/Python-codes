@@ -1,3 +1,4 @@
+# remove duplicates from a list and print the sorted list.
 input_list=input().split()
 new_list= []
 for i in input_list:
